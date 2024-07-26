@@ -1,0 +1,16 @@
+{
+  "name": "csv-http-requester",
+  "version": "1.0.0",
+  "description": "A Node.js program that reads a CSV file and makes HTTP requests based on its contents.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-parser": "^3.0.0",
+    "piscina": "^3.0.0"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}

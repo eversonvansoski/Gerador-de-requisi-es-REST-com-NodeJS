@@ -12,6 +12,10 @@ O arquivo CSV de exemplo já possui a estrutura para a requisição, sendo neces
 
 Caso a coluna header ou budy não sejam necessárias para a requisição, basta mante-las vazias, incluindo apenas o separador **;**
 
+## Threads
+
+O programa permite que seja definida uma quantidade de threads, o limite está dentro do próprio código, no parâmetro **maxThreads**
+
 ## Instalação
 
 ```bash
